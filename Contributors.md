@@ -1,8 +1,12 @@
+- [Kadri Abderazik](https://github.com/kadrirazik50-rgb) - Ma première contribution open source !
 - Milo
+- Raphaël
 - [t.x](https://github.com/dashboard)
+- imame8 03/02/2026
 - [szy](https://github.com/ccLuckysun)
 - [Aishwarya](https://github.com/aishwaryaprakashg) - Learning open-source development.
 - [D3F4ULT-dev](https://github.com/D3F4ULT-dev) -  Officially making my mark in open source.
+- [Raphal](https://github.com/Raphal6974) - My first contribution with open source !
 - zhh‘s first
 - [Vansh Chaudhary](https://github.com/vanshchaudharyx) - This is my first open source contribution!
 <img width="4032" height="1694" alt="image" src="https://github.com/user-attachments/assets/436e01a9-1d1f-4922-9784-3b6d6fe16928" />
@@ -84,6 +88,7 @@ z54c6hf
 - [Fred Besiktas](https://github.com/Fred1903) - My first open source contribution !! #Forza Carsi  
 - [Yanghwan Lim](https://github.com/cantor516) -My first source contribution!! 
 - [nxliu] - This is my first contribution.
+- [Damien](https://github.com/legentil-damien) - My first open source contribution.
 - [Gayathri]-This is my first contibution.
 - [Yashik Bandhu](https://github.com/Yashik02) - Yashik was here. this is my first contribution!
 - [Niqa Nabila](https://github.com/niqanabila16) - Niqa Nabila was here, looking forward to contribute more to the community!!!
@@ -5733,6 +5738,7 @@ Twan Star
   Nice to try out first pull
   Nethmi(https://github.com/thakshilaaa)
 - [Siddharth](https://github.com/siddharth03015)
+- [Clement](https://github.com/Clement-s29) - my first open source contribution!
 - [Kaushambi Gujral](https://github.com/kgujral2612)
 - [Mikhail Garayev](https://github.com/mikhailgarayev)
   -Chandana Jagadish
@@ -8073,3 +8079,5 @@ Kunal Khallar - Learning to contribute :)
 - [Julie Modi](https://github.com/juliemodi) - my first open source contribution!
 - [Reza Razjoo](https://github.com/razjoorez)
 - [JEFFRIN](https://github.com/jeffrinjeffrin64-star)
+- [Anjali] (https://github.com/srianjali-gajam) 
+
